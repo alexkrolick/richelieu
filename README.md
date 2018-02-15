@@ -4,6 +4,8 @@ Centralized state for React apps ⚜️
 
 **This is an alpha project, not ready for production use**
 
+See [Unstated](https://github.com/jamiebuilds/unstated) for a production-ready library with a similar easy-to-use, function-based API
+
 ## Goals
 
 - Facilitate exchange of information between components by providing a global store and means to update it
